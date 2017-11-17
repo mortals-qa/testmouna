@@ -6,7 +6,7 @@ configuration:
   value: ""
 id: null
 name: ""
-artifactTypeId: "iOS App"
+artifactTypeId: "Android App"
 description:
   title: ""
   details: ""
