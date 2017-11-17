@@ -20,4 +20,4 @@ features: null
 application: null
 source:
   url: ""
-  type: ""
+  type: "Github"
