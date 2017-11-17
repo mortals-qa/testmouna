@@ -6,7 +6,7 @@ configuration:
   value: ""
 id: null
 name: ""
-artifactTypeId: "Hybrid App"
+artifactTypeId: "iOS App"
 description:
   title: ""
   details: ""
@@ -20,4 +20,4 @@ features: null
 application: null
 source:
   url: ""
-  type: "Mouna"
+  type: ""
